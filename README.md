@@ -16,9 +16,56 @@ Ensure you have Python 3.8 or higher installed on your system. The project also 
 ## Installation
 
 ### Clone the Repository
+
 To get started with this project, clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/telemedicine-portugal.git
+git clone https://github.com/SSOCosta/Telemedicine-in-Portugal.git
 
 ```
-###
+### Navigate to the Project Directory
+```bash
+cd telemedicine-portugal
+```
+
+### Install Required Libraries
+Create a virtual environment (optional but recommended):
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+```
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+### Running the Project
+
+Launch Jupyter Notebook to access the project:
+```bash
+jupyter notebook
+```
+
+Navigate to Telemedicine in Portugal over the years.ipynb and run the cells to execute the analysis and view the model's performance.
+
+## Project Structure
+
+- `README.md` - Project overview and setup instructions.
+- `requirements.txt` - List of libraries required to run the project.
+- `Telemedicine in Portugal over the years.ipynb` - Jupyter notebook containing the data analysis and predictive modeling.
+
+## Acknowledgments
+
+Data provided by the Portuguese Ministry of Health: https://www.sns.gov.pt/transparencia/
+Special thanks to the data science community for continuous support and insights.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+For support or to contact the project maintainers:
+
+Email: susysonia9@gmail.com
+Project Link: https://github.com/SSOCosta/Telemedicine-in-Portugal
