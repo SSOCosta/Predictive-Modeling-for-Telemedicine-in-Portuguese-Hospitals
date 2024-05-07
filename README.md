@@ -13,11 +13,14 @@ The aim is to develop a predictive model that uses historical telemedicine data 
 Prerequisites
 Ensure you have Python 3.8 or higher installed on your system. The project also requires Jupyter Notebook to view and run the notebook file.
 
-Installation
-1. Clone the Repository
-bash
-Copy code
+## Installation
+
+### Clone the Repository
+To get started with this project, clone the repository to your local machine:
+
+```bash
 git clone https://github.com/yourusername/telemedicine-portugal.git
+
 Navigate to the Project Directory
 bash
 Copy code
