@@ -57,7 +57,6 @@ Navigate to Telemedicine in Portugal over the years.ipynb and run the cells to e
 ## Acknowledgments
 
 Data provided by the Portuguese Ministry of Health: https://www.sns.gov.pt/transparencia/
-Special thanks to the data science community for continuous support and insights.
 
 ## License
 
