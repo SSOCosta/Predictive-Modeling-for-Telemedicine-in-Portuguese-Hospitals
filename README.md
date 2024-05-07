@@ -19,7 +19,7 @@ Ensure you have Python 3.8 or higher installed on your system. The project also 
 To get started with this project, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/telemedicine-portugal.git
+git clone https://github.com/yourusername/telemedicine-portugal.git```
 
 ### Navigate to the Project Directory
 ```bash
