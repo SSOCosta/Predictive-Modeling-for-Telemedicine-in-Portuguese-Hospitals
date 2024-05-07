@@ -60,7 +60,7 @@ Data provided by the Portuguese Ministry of Health: https://www.sns.gov.pt/trans
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License- see the License.txt (https://github.com/SSOCosta/Telemedicine-in-Portugal/blob/main/Predictive_Modeling_for_Telemedicine_in_Portuguese_Hospitals/License.txt) file for details
 
 ## Contact
 
