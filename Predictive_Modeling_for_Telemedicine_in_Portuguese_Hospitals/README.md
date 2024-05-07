@@ -1,5 +1,5 @@
 # Predictive Modeling for Telemedicine in Portuguese Hospitals
-![Cover Image](GitHub_cover_image/telemedicine.jpg)
+![Cover Image](GitHub_cover_image/Predictiv_ Modeling_for_Telemedicine_in_Portuguese_Hospitals\GitHub_cover_image\telemedicine.jpg)
 
 ## Overview
 This project addresses the pressing need to optimize telemedicine services in Portuguese hospitals by utilizing a decade's worth of historical telemedicine data. Our research question explores how this data can be used to predict follow-up consultations and thus improve resource allocation, staffing, and scheduling within these healthcare services.
