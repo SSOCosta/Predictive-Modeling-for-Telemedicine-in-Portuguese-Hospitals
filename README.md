@@ -22,23 +22,21 @@ To get started with this project, clone the repository to your local machine:
 git clone https://github.com/yourusername/telemedicine-portugal.git
 
 Navigate to the Project Directory
-bash
-Copy code
+```bash
 cd telemedicine-portugal
 Install Required Libraries
 Create a virtual environment (optional but recommended):
-bash
+```bash
 Copy code
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 Install dependencies:
-bash
+```bash
 Copy code
 pip install -r requirements.txt
 Running the Project
 Launch Jupyter Notebook to access the project:
-
-bash
+```bash
 Copy code
 jupyter notebook
 Navigate to Telemedicine in Portugal over the years.ipynb and run the cells to execute the analysis and view the model's performance.
