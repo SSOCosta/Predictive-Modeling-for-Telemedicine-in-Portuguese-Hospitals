@@ -21,21 +21,24 @@ To get started with this project, clone the repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/telemedicine-portugal.git
 
-Navigate to the Project Directory
+### Navigate to the Project Directory
 ```bash
 cd telemedicine-portugal
 Install Required Libraries
-Create a virtual environment (optional but recommended):
+
+### Create a virtual environment (optional but recommended):
 ```bash
 Copy code
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-Install dependencies:
+
+### Install dependencies:
 ```bash
 Copy code
 pip install -r requirements.txt
 Running the Project
-Launch Jupyter Notebook to access the project:
+
+### Launch Jupyter Notebook to access the project:
 ```bash
 Copy code
 jupyter notebook
