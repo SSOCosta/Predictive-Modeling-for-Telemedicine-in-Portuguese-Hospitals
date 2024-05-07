@@ -67,4 +67,5 @@ This project is licensed under the MIT License.
 For support or to contact the project maintainers:
 
 Email: susysonia9@gmail.com
+
 Project Link: https://github.com/SSOCosta/Telemedicine-in-Portugal
